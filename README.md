@@ -1,8 +1,11 @@
 # CSCI39597-International-Alarm
 
 The main home project for CSCI39597 iOS Development at Hunter College (Spring 2020)
+
 Professor: Ali El Sayed
+
 Final Score: 57/60
+
 Goal: To create an iOS app using Swift on Xcode meeting the below specifications 
 
 Grading each of the project requirements:
