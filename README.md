@@ -8,6 +8,8 @@ Final Score: 57/60
 
 Goal: To create an iOS app using Swift on Xcode meeting the below specifications 
 
+(My finished product is a mobile app that allows the user to set an alarm for any time zone and have that value convert automatically to their local timezone)
+
 Grading each of the project requirements:
 
 Your app...
